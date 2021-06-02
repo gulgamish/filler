@@ -9,10 +9,14 @@ Objectives:
     Algorithmie basique
     Entrées/sorties
 
-Skills:
-    Rigor
+-----
+
+Skills.
+⋅⋅⋅Rigor
     Unix
     Algorithms & AI
+
+-----
 
 note:
     ![alt text](img/mark.png)
