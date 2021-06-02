@@ -11,10 +11,10 @@ Objectives:
 
 -----
 
-Skills.
-⋅⋅⋅Rigor
-    Unix
-    Algorithms & AI
+* Skills
+    * Rigor
+    * Unix
+    * Algorithms & AI
 
 -----
 
