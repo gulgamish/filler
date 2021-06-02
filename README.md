@@ -18,5 +18,5 @@ Créez votre joueur pour affronter d’autres étudiants sur le célèbre (ou pa
 
 -----
 
-* note
-    * ![alt text](img/mark.png)
+* note :
+    ![alt text](img/mark.png)
